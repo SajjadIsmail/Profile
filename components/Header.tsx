@@ -44,7 +44,7 @@ const Header: React.FC = () => {
         <header className={`fixed top-0 left-0 right-0 z-40 transition-all duration-300 ${scrolled ? 'bg-[#FFF1F1]/80 backdrop-blur-lg border-b border-[#E9B3FB]/50' : 'bg-[#FFF1F1]'}`}>
             <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center justify-between h-16 md:h-20">
-                    <a href="/" className="text-lg sm:text-xl font-bold text-[#3B0270] hover:text-[#6F00FF] transition-colors">
+                    <a href="#hero" className="text-lg sm:text-xl font-bold text-[#3B0270] hover:text-[#6F00FF] transition-colors">
                         Sajjad Ismail
                     </a>
                     <nav className="hidden md:flex items-center gap-6 lg:gap-8">

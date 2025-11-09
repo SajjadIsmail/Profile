@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist -b gh-pages --repo https://github.com/TentacioPro/aienggPort.git"
+  "deploy": "gh-pages -d dist -b gh-pages --repo https://github.com/SajjadIsmail/Profile.git"
   },
   "dependencies": {
     "react": "^19.2.0",
